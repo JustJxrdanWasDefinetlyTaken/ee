@@ -2076,7 +2076,7 @@ label story:
 
     stop music fadeout 3.0
 
-    return
+    jump story
 
 label start:
     camera:
